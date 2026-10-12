@@ -1,0 +1,9 @@
+.build/
+*.app
+.swiftpm/
+Models/
+build/
+.superpowers/
+.DS_Store
+
+Tests/Fixtures/audio/
